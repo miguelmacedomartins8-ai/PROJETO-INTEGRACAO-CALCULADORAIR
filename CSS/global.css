@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Inter",sans-serif;
+    background-color: #ffffff;
+    color: #333333;
+    overflow-x: hidden;
+}
+
+section {
+    padding: 64px 0;
+}
+
+span {
+    user-select: none
+}
+
+.container {
+    width: 100%;
+    max-width: 1220px;
+    margin: auto;
+    margin-bottom: none;
+    padding: 0 16px;
+}

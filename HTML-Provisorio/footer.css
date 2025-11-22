@@ -1,0 +1,17 @@
+.footer{
+    background: #1e3a5f;
+    color: #f1f3f4;
+    padding: 10px 0px;
+    margin-top: 32px;
+    
+}
+
+.footer-content {
+    text-align: center;
+    font-size: 0.85rem;
+}
+
+.footer-note {
+    opacity: 0.85;
+    margin-top: 6px;
+}
