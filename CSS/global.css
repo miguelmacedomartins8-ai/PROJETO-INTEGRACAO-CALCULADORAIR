@@ -14,22 +14,6 @@ span {
   padding: 0 16px;
 }
 
-section {
-  padding: 64px 0;
-}
-
-span {
-  user-select: none;
-}
-
-.container {
-  width: 100%;
-  max-width: 1220px;
-  margin: auto;
-  margin-bottom: none;
-  padding: 0 16px;
-}
-
 /*Header*/
 
 .header {
